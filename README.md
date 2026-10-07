@@ -4,11 +4,12 @@
 
 ### *Defensive TCP Port Scanner & Network Baseline Auditing Engine*
 
+[![Tests and Quality Check](https://github.com/rshamith777-cpu/CS_2_PortScanner_BYTE/actions/workflows/tests.yml/badge.svg)](https://github.com/rshamith777-cpu/CS_2_PortScanner_BYTE/actions)
 [![Python Version](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-F7DF1E?style=for-the-badge&logoColor=black)](LICENSE)
 [![Security Policy](https://img.shields.io/badge/Security-Authorized_Only-red?style=for-the-badge&logo=shield)](SECURITY.md)
 [![Tests Passing](https://img.shields.io/badge/Tests-23%20Passed-2ea44f?style=for-the-badge&logo=githubactions&logoColor=white)](.github/workflows/tests.yml)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-blueviolet?style=for-the-badge)](https://github.com/)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-blueviolet?style=for-the-badge)](https://github.com/rshamith777-cpu/CS_2_PortScanner_BYTE)
 
 <p align="center">
   <b>Built for AICTE Virtual Internship Program (AVIP 2026) – CyberSecurity Task 4</b>
@@ -138,7 +139,7 @@ CS_2_PortScanner_BYTE/
 ### 2. Setup
 ```powershell
 # Clone the repository
-git clone https://github.com/your-username/CS_2_PortScanner_BYTE.git
+git clone https://github.com/rshamith777-cpu/CS_2_PortScanner_BYTE.git
 cd CS_2_PortScanner_BYTE
 
 # Install in editable development mode

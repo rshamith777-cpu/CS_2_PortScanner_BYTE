@@ -1,0 +1,54 @@
+{
+  "scan_metadata": {
+    "timestamp": "2026-10-07T19:57:26.190955+00:00",
+    "target": "127.0.0.1",
+    "resolved_address": "127.0.0.1",
+    "timeout_seconds": 2.5,
+    "port_count": 5,
+    "duration_ms": 2061.8,
+    "workers": 5
+  },
+  "summary": {
+    "total_scanned": 5,
+    "open_count": 1,
+    "closed_count": 4,
+    "filtered_count": 0
+  },
+  "results": [
+    {
+      "port": 7998,
+      "protocol": "tcp",
+      "status": "closed",
+      "latency_ms": 2048.59,
+      "error": "Connection refused (code 10061)"
+    },
+    {
+      "port": 7999,
+      "protocol": "tcp",
+      "status": "closed",
+      "latency_ms": 2046.87,
+      "error": "Connection refused (code 10061)"
+    },
+    {
+      "port": 8000,
+      "protocol": "tcp",
+      "status": "open",
+      "latency_ms": 0.93,
+      "error": null
+    },
+    {
+      "port": 8001,
+      "protocol": "tcp",
+      "status": "closed",
+      "latency_ms": 2045.63,
+      "error": "Connection refused (code 10061)"
+    },
+    {
+      "port": 8002,
+      "protocol": "tcp",
+      "status": "closed",
+      "latency_ms": 2045.53,
+      "error": "Connection refused (code 10061)"
+    }
+  ]
+}

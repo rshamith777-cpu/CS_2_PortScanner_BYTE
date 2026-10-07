@@ -1,0 +1,4 @@
+timestamp,target,resolved_address,port,protocol,status,latency_ms,error
+2026-10-07T19:59:11.325314+00:00,localhost,127.0.0.1,8000,tcp,open,1.3,
+2026-10-07T19:59:11.325314+00:00,localhost,127.0.0.1,8080,tcp,closed,2017.02,Connection refused (code 10061)
+2026-10-07T19:59:11.325314+00:00,localhost,127.0.0.1,8443,tcp,closed,2032.19,Connection refused (code 10061)
